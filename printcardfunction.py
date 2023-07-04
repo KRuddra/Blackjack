@@ -1,6 +1,4 @@
-def makeaccount():
-  username = input("Enter a username: ")
-  password = input("Enter a password:  ")
+
 
 def updatebet(totalmoney): 
   amountmoney = total + int(input("Enter the amount of money you want in your account: "))
